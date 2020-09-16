@@ -26,6 +26,7 @@ hs_err_pid*
 target/
 .idea/
 *.iml
+fast-file.iml
 
 assets/
 
